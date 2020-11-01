@@ -1,1 +1,1 @@
-# DataScience-Simple-Projects
+# Data science projects collection.
